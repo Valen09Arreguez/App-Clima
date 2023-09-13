@@ -1,0 +1,7 @@
+body {
+    background: wheat;
+    letter-spacing: 0.2em;
+}
+.container{
+    max-width: 450px;
+}
